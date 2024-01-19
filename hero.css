@@ -1,0 +1,106 @@
+
+.small-part{
+  display: flex;
+}
+.red-pic{ 
+    width: 50px;
+    height: 50px;
+}
+.new-travel{
+    span {
+    color: orangered;
+    }
+    font-size: 30px;
+    font-weight: 700;
+    padding-left: 20px;
+    margin-top: 7px;
+}
+nav > ul{
+    display: flex;
+    
+}
+nav li{
+    list-style: none;
+    display:flex;
+    margin-top: 0px;
+    margin: 30px;
+    margin-top: 0px;
+    span{color: orangered;}
+
+}
+.point{display: flex;}
+nav{ justify-content: space-around ;}
+.font-pic{text-align: center;
+margin-top: auto;}
+.banner-card{
+    position: relative;
+}
+.banner-card{
+    max-width: 100%;
+    height: auto;
+}
+.banner-text{
+    position: absolute;
+    top: 25%;
+    color:#FFF;
+    padding-left: 20em;
+}
+.banner-text h1{
+    font-size: 45px;
+    text-transform: uppercase;
+font-weight: bold;
+}
+.chat{display: flex;
+    gap: 20px;
+    border-radius: 50px;
+}
+button{background-color: orangered;
+border: none;
+border-radius: 4px;
+color: #FFF;
+padding: 8px;}
+.pera{display: flex;}
+.other-2{width: 540px;
+    height: 550px;
+padding-left: 20px;}
+.choose{text-align: center;}
+.row{display: flex;
+    width: 573px;
+    height: 300px;
+gap:5px}
+.sec{
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+.ban{
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+.why{
+    text-align: center;
+}
+.hotel-world{display: flex;
+    gap: 30px;
+}
+.hotel{
+    background-color:beige;
+    padding-left: 20px;
+    border-color: bisque;
+    border-radius: 15px;
+}
+.world{ background-color: aliceblue;
+    padding-left: 20px;
+    border-color:aliceblue
+}
+.best{
+    text-align: center;
+background-color:azure ;
+padding: 10px;
+margin-top: 10px;
+border-radius: 50px;
+}
+.Deals{
+    text-align: center;
+}
