@@ -113,3 +113,7 @@ border: 1px solid #FF5400;
 }
 .box{display: flex;
 padding: 10px 40px;}
+span{color: #FF5400;}
+@media screen and (max-width:600) {
+    .new-travel{}
+}
