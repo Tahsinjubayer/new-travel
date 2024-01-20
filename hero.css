@@ -104,3 +104,12 @@ border-radius: 50px;
 .Deals{
     text-align: center;
 }
+.btn-2{text-align: center;
+}
+.box-1 li {list-style-type: none;
+    padding: 10px;
+    border-radius: 16px;
+border: 1px solid #FF5400;
+}
+.box{display: flex;
+padding: 10px 40px;}
